@@ -1,8 +1,8 @@
 Underwater Fish Detection using Custom YOLOv8
 
 Project Overview
--This project detects fish in underwater marine videos using a custom-trained YOLOv8 model.
--The model is trained on enhanced frames extracted from a known underwater video.
+- This project detects fish in underwater marine videos using a custom-trained YOLOv8 model.
+- The model is trained on enhanced frames extracted from a known underwater video.
 
 Workflow
 1. Extract frames from underwater video
